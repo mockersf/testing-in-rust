@@ -14,3 +14,4 @@
 - [Snapshot Testing](./snapshot_testing.md)
 - [Mutation Testing](./mutation_testing.md)
 - [Future Test Frameworks](./future_test_frameworks.md)
+- [Continuous Integration](./continuous_integration.md)
