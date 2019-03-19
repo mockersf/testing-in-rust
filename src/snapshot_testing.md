@@ -1,3 +1,3 @@
 # Snapshot Testing
 
-https://crates.io/crates/insta
+* https://crates.io/crates/insta
